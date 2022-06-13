@@ -16,8 +16,6 @@ import webbrowser
 import pyqrcode
 from pyqrcode import QRCode
 
-# convert into png format
-import png
 
 # to access operating system control
 import os
